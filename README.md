@@ -1,4 +1,8 @@
 **Hammad Aslam** here i construct a complete web app with **Node**, **React**, **Express**, **MongoDB** &**Redux**.
+**access for admin panel**
+
+id:- **admin@gmail.com**
+password:- **abcd1234**
 
 **Features in this web app**
 1 cookies session
@@ -17,6 +21,9 @@
 14 cloudinary for image for users and product
 15 smtp service to do forgot password procedure
 16 curd operation in user and product
+17 aggreate rating according to users of products
+18 admin panel
+19 creating changing of category role (from user to admin )
 
 **Variables to run the project**
 .ENV file bannai hai jiska naam **config** rakhna config wale folder me
@@ -36,7 +43,3 @@ SMPT_PORT=
 CLOUDINARY_NAME=
 CLOUDINARY_API_KEY=
 CLOUDINARY_API_SECRET=
-# eaz_buy_ecommerce_web_app
-# eaz_buy_ecommerce_web_app
-# eaz_buy_ecommerce_web_app
-# eaz_buy_ecommerce_web_app
