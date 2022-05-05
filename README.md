@@ -1,6 +1,3 @@
-# eaz_buy_ecommerce_web_app
-an extensive ecommerce web app with every possible feature
-
 **Hammad Aslam** here i construct a complete web app with **Node**, **React**, **Express**, **MongoDB** &**Redux**.
 
 **Features in this web app**
