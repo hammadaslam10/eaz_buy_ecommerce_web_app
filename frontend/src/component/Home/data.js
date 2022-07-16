@@ -2,7 +2,7 @@ export const sliderItems = [
     {
       id: 1,
       img: "https://cdn.dribbble.com/users/1787323/screenshots/11397135/media/dc4a0d66338b878728b8211cc2023398.png?compress=1&resize=400x300&vertical=top",
-      title: "Tech Mela",
+      title: "Tech Melassss",
       desc: "Latest Tech gadgets on your doorsteps 30%off",
       bg: "f5fafd",
     },

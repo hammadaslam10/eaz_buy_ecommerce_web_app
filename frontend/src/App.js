@@ -5,7 +5,6 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import WebFont from "webfontloader";
 import Footer from "./component/layout/Footer/Footer";
 import Home from "./component/Home/Home.js";
-// import Loader from "./component/layout/Loader/Loader";
 import ProductDetails from "./component/Product/ProductDetails.js";
 import Products from "./component/Product/Products.js";
 import Search from "./component/Product/Search.js";

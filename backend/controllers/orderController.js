@@ -52,7 +52,7 @@ exports.myOrders = catchAsyncErrors(async (req, res) => {
   const orders = await Order.find({ user: req.user._id });
 
   res.status(201).json({
-    success: true,
+    success: true,  
     orders,
   });
 });
